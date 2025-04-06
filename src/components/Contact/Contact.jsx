@@ -1,6 +1,6 @@
 import { useDispatch } from "react-redux"
-import styles from "../Contact/Contact.module.css"
-import { deleteContact } from "../redux/contactsSlice"
+import styles from "./Contact.module.css"
+import { deleteContact } from "../../redux/contactsSlice"
 import { FaPhoneAlt } from "react-icons/fa";
 import { FaUserAlt } from "react-icons/fa";
 import { RiDeleteBack2Fill } from "react-icons/ri";

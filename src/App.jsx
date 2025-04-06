@@ -1,7 +1,7 @@
 import './App.css'
-import ContactForm from './ContactForm/ContactForm'
-import ContactList from './ContactList/ContactList'
-import SearchBox from './SearchBox/SearchBox'
+import ContactForm from '../src/components/ContactForm/ContactForm'
+import ContactList from '../src/components/ContactList/ContactList'
+import SearchBox from '../src/components/SearchBox/SearchBox'
 
 function App() {
 
